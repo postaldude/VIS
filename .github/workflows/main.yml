@@ -5,7 +5,7 @@ name: VIS
 on: # укажите сборку для запуска автоматического ci/cd
     push:
         branches:
-            - "main"
+            - "master"
             
 jobs: 
     build:
