@@ -1,4 +1,4 @@
-name: VIS
+name: node_app
 
 on: # укажите сборку для запуска автоматического ci/cd
     push:
